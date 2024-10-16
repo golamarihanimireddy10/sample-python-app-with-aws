@@ -5,4 +5,4 @@ set -e
 docker pull hanimi/simple-python-flask-app
 
 # Run the Docker image as a container
-docker run -d -p 8000:8000
+docker run -d -p 5000:5000
